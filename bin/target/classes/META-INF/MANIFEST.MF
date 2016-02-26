@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: ng-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: njw.spring4
+Build-Jdk: 1.7.0_79
+Built-By: SSS2015042
+Created-By: Maven Integration for Eclipse
+
